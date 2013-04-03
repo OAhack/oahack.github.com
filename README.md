@@ -1,4 +1,4 @@
 oahack.github.com
 =================
 
-The simplest #OAhack website!
+The simplest [#OAhack website](http://oahack.github.com/)!
